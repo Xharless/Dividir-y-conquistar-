@@ -1,11 +1,3 @@
-/*
-Es ir buscando en un arreglo, iterando el arreglo y guardando y comparando cuales son los elementos mas pequeños y intercambiarlos de posicion
-La idea es tomar el elemento mas pequeño o mas grande dependiendo de como queremos ordenar nuestro arreglo
-
-es bueno cuando no son tantos datos
-
-al tener 2 for anidados y ver que uno depende del otro, vemos que es del orden O(n^2)
-*/
 
 #include <fstream>
 #include <iostream>

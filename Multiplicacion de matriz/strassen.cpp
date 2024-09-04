@@ -1,7 +1,3 @@
-/* 
-Multiplicacion de matrices nxn calculos con O(n^log_2 7), se debe cumplir que las matrices sean de potencias de 2, si no lo es 
-se rellenan con 0 hasta que se vuelve cuadrada 
-*/
 
 #include <iostream>
 #include <vector>

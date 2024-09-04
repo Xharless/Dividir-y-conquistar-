@@ -1,9 +1,3 @@
-/*
-Si se quiere imprimir de mayor a menor, hay que hacer un include de 
-#include <functional>
-
-y luego en la funcion sort hay que hacerlo sort(arreglo.begin(), arreglo.end(), greater<int>())
-*/
 
 #include <iostream>
 #include <algorithm>

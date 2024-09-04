@@ -1,12 +1,3 @@
-/*
-Comlejidad computacional: O(n*log(n))
-mejor eficiencia en conjuntos de datos largos
-
-Pasos: 
-    1. Dividir el arreglo a la mitad
-    2. Mezvlar los vectores resultantes
-
-*/
 
 #include <iostream>
 #include <vector>

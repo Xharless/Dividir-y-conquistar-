@@ -1,9 +1,4 @@
-/*
-seleccionamos un elemento de un arreglo llamado pivote (primer elemento, a la mitad o el ultimo elemento)
-escogemos el primer elemento como povote, a la izquieda colocamos los elementos menores al pivote y al lado derecho los mayores
-luego escogemos los pivotes de cada elemento separado
 
-*/
 #include <fstream>
 #include <iostream>
 #include <chrono>
